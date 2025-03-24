@@ -1,15 +1,33 @@
-- 👋 Hi, I’m @Phatkn
-- 👀 I’m interested in cook
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m @Phatkn
 
-<!---
-Phatkn/Phatkn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![phat's GitHub stats](https://github-readme-stats.vercel.app/api?username=phat&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&layout=compact)
+## 🚀 About Me  
+- 👀 I’m interested in cooking and cloud computing.  
+- 🌱 I’m currently learning **Flutter** and **AWS Cloud**.  
+- 💡 Exploring AWS **Solution Architecture** and **Serverless Development**.  
+- ⚡ Fun fact: I love experimenting with new recipes while coding!  
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,python,html,css,js,react,git,linux,windows,idea,eclipse,vscode,md&theme=light)](https://skillicons.dev)
+---
+
+## 📊 GitHub Stats  
+![Phat's GitHub stats](https://github-readme-stats.vercel.app/api?username=phatkn&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&layout=compact)
+
+---
+
+## 🛠️ Tech Stack  
+[![My Skills](https://skillicons.dev/icons?i=aws,dart,flutter,java,c,cpp,python,html,css,js,react,git,linux,windows,idea,eclipse,vscode,md&theme=light)](https://skillicons.dev)  
+
+---
+
+## 🎖️ Certifications  
+![AWS Certified Solutions Architect](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.6d4e94f122047cbc.png)  
+
+---
+
+## 📫 How to reach me  
+- LinkedIn: [Your LinkedIn Profile](#)  
+- GitHub: [@Phatkn](https://github.com/Phatkn)  
+- Email: [Your Email](#)  
+
+---
+
+✨ _“Code, cook, and cloud – a perfect recipe!”_ 🚀🔥  
